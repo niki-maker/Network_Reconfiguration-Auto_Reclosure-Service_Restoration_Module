@@ -1,0 +1,48 @@
+{
+  "capacitor_reactive_power": {
+    "bus14": 400,
+    "bus24": 450,
+    "bus30": 1000
+  },
+  "fixed_capacitors": {
+    "bus33": 1200,
+    "bus30": 1200,
+    "bus25": 1000
+  },
+  "shunt_reactor_reactive_power": {
+    "bus18": 350,
+    "bus32": 450
+  },
+  "tie_switches": [
+    ["bus25", "bus29"],
+    ["bus12", "bus22"],
+    ["bus18", "bus33"],
+    ["bus8", "bus21"]
+  ],
+  "tie_impedance": {
+    "bus25-bus29": [0.2, 0.5],
+    "bus12-bus22": [0.25, 0.7],
+    "bus18-bus33": [0.18, 0.4],
+    "bus8-bus21": [0.19, 0.45]
+  },
+  "transformers": [
+    {
+      "name": "TX_7_8",
+      "from": "bus7",
+      "to": "bus8",
+      "rating_kVA": 2000,
+      "kv_primary": 12.66,
+      "kv_secondary": 12.66,
+      "r_percent": 0.5
+    },
+    {
+      "name": "TX_16_17",
+      "from": "bus16",
+      "to": "bus17",
+      "rating_kVA": 2000,
+      "kv_primary": 12.66,
+      "kv_secondary": 12.66,
+      "r_percent": 0.5
+    }
+  ]
+}

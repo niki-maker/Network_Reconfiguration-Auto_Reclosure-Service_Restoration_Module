@@ -1,0 +1,8 @@
+numpy
+pandas
+openpyxl
+cimpy
+flask
+requests
+villas-dataprocessing
+OpenDSSDirect.py==0.9.4

@@ -1,0 +1,19 @@
+apiVersion: 1
+
+datasources:
+  - name: influxdb
+    uid: DS_INFLUXDB
+    type: influxdb
+    url: http://influxdb:8086
+    jsonData:
+      version: Flux
+      organization: my-org
+      defaultBucket: Hello
+    secureJsonData:
+      token: custom-token
+    isDefault: false
+  
+  - name: infinity
+    uid: DS_INFINITY
+    type: yesoreyeram-infinity-datasource
+    isDefault: false

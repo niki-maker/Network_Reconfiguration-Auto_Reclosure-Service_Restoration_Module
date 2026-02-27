@@ -1,0 +1,6 @@
+numpy
+pandas
+OpenDSSDirect.py==0.9.4
+flask
+openpyxl
+requests

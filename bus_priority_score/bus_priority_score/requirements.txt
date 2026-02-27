@@ -1,0 +1,6 @@
+OpenDSSDirect.py==0.9.4
+pandas
+openpyxl
+requests
+flask
+networkx==3.2.1
