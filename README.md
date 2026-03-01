@@ -280,7 +280,7 @@ This repository provides a modular, scalable, and utility-aligned Active Distrib
 
 - Fault isolation
 
-- Automated service restoration
+- Automated service restoration.
 
 The architecture mirrors practical distribution automation systems and establishes a strong foundation for:
 
