@@ -236,10 +236,10 @@ Return to EnVVarco Monitoring
 
 ```bash
 # Clone repository
-git clone https://github.com/niki-maker/Network_Reconfiguration-Auto_Reclosure-Service_Restoration_Module.git
+git clone https://github.com/niki-maker/Microservices-Based-Grid-Automation-for-IEEE-33-Distribution-Network
 
 # Navigate to project directory
-cd Network_Reconfiguration-Auto_Reclosure-Service_Restoration_Module
+cd Microservices-Based-Grid-Automation-for-IEEE-33-Distribution-Network
 
 # Build containers
 docker-compose build
