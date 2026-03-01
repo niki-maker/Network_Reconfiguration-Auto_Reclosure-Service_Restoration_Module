@@ -3,16 +3,7 @@
 
 ---
 
-## 🖼 System Overview
-
-![IEEE 33 Bus System](https://via.placeholder.com/800x400?text=IEEE+33+Bus+System)
-![OpenDSS Simulation](https://via.placeholder.com/800x400?text=OpenDSS+Simulation)
-![Docker Microservices Architecture](https://via.placeholder.com/800x400?text=Docker+Microservices+Architecture)
-![Tie-Switch Reconfiguration](https://via.placeholder.com/800x400?text=Tie+Switch+Configuration)
-
----
-
-## 📌 Overview
+## 📌 System Overview
 
 This repository presents a **hierarchical and event-driven Active Distribution Management Framework** developed on the IEEE-33 Bus Radial Distribution System.
 
