@@ -236,10 +236,10 @@ Return to EnVVarco Monitoring
 
 ```bash
 # Clone repository
-git clone <repository-url>
+git clone https://github.com/niki-maker/Network_Reconfiguration-Auto_Reclosure-Service_Restoration_Module.git
 
 # Navigate to project directory
-cd <repository-folder>
+cd Network_Reconfiguration-Auto_Reclosure-Service_Restoration_Module
 
 # Build containers
 docker-compose build
